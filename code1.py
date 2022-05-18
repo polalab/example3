@@ -1,1 +1,3 @@
 print("Hello")
+
+x = input()
